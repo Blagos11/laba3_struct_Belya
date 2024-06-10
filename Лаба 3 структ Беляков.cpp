@@ -35,6 +35,9 @@ void print_deck(const std::vector<Color>& deck) {
 
 int main() {
     int n;
+    std::cout << "Беляков Никита Юрьевич "; << std::endl;
+    std::cout << "090301-ПОВа-о23 "; << std::endl;
+    
     std::cout << "Введите количество карточек: ";
     std::cin >> n;
 
